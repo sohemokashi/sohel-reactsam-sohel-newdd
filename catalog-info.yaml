@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sohel-reactsam-sohel-newsdd"
+  description: "sohel-reactsam-sohel-newd"
+  annotations:
+    github.com/project-slug: sohemokashi/sohel-reactsam-sohel-newdd
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "guests"
+  system: 
+
